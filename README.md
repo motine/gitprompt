@@ -11,6 +11,8 @@ After installing your prompt will look something like:
 
 # Installation
 
+If you are on a Mac and you have [homebrew](http://brew.sh), run `brew install https://raw.githubusercontent.com/motine/brew_recipes/master/git-prompt.rb`. Otherwise:
+
 copy the scripts to your system bin:
   `sudo cp current-git-branch pwd-last-two /usr/local/bin`
 
